@@ -1,1 +1,1 @@
-# MZB_ALGO
+# Resturant Management System
